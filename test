@@ -1,24 +1,49 @@
+Conversation opened. 1 unread message.
+
+Skip to content
+Using Gmail with screen readers
+1 of 368
+Fwd:
+Inbox
+
+Natasha Jaman <natashajaman76@gmail.com>
+11:29 AM (2 minutes ago)
+to me, siaminoyshi@gmail.com, humairaafrin744, parthadas2222002
+
+
+
+---------- Forwarded message ---------
+From: ELAE Tangail <lab.tangailelae@gmail.com>
+Date: Mon, Aug 25, 2025 at 11:25 AM
+Subject:
+To: <natashajaman76@gmail.com>
+
+
 <!doctype html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SUMA-WEB DEVELOPER</title>
+    <title>RAJU - Web Developer</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+
+    <!-- icon -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+     <!-- style  -->
+      <link rel="stylesheet" href="styles/style.css">
 </head>
 
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container">
-            <a class="navbar-brand" href="#">SUMA</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
-                aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
+                aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+            <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+                <a class="navbar-brand" href="#">RAJU</a>
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
@@ -34,23 +59,24 @@
                     </li>
 
                 </ul>
-
-                <button class="btn btn-outline-success" type="submit">Resume <i
-                        class="bi bi-file-earmark-arrow-down-fill"></i></button>
+                <button class="btn btn-outline-success" type="submit">
+                    Resume <i class="bi bi-file-earmark-arrow-down"></i>
+                </button>
 
             </div>
         </div>
     </nav>
-
     <!-- intro section -->
-    <section class="container d-lg-flex justify-content-center align-items-center w-100 mt-4">
+    <section class="container d-lg-flex justify-content-around align-items-center w-100 mt-4">
         <div class="text-center">
-            <h2>Suma Sarker </h2>
+            <h2>RAJU AHMED</h2>
             <p>Web Developer</p>
-            <button class="btn btn-outline-success" type="submit">Hire Me </button>
+            <button class="btn btn-outline-success">Hire Me</button>
         </div>
-        <div class="text-center"><img src="images/professional picture.jpg" alt="Intro Image"></div>
-    </section> <br>
+        <div class="">
+            <img src="images/professional-image.png" style="height: 300px;" class="mx-auto" alt="intro-image">
+        </div>
+    </section>
 
 
     <!-- project -->
